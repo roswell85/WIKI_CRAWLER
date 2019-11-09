@@ -4,7 +4,7 @@ A Wikipedia crawler that takes in a wikipedia link and extracts paragraph texts 
 Author : Ali Shawky.
 download wikicrawler.py and its requirements.txt .
 import wikicrawler
-create a crawler object using the constructor 
+create a crawler object using the constructor class
 >>> crawler = wikicrawler.WIKI_CRAWLER()
 the user will be asked to input a valid wikipedia link 
 the crawler object has 2 empty lists : crawler.links and crawler.paragraphs and 2 main bounded methods; crawler.get_links() & crawler.get_paragraphs() that are called [order: get_links then get_paragraphs] to append hyperlink and text data to the input page respectively 
