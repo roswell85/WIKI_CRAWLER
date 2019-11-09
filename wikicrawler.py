@@ -60,17 +60,3 @@ class WIKI_CRAWLER():
           self.paragraphs.append(j.text)
       print('data successfully appended to WIKI_CRAWLER.paragraphs')
   
-
-  
-
-
-      
-
-    
-    
-    
-
-
-
-
-        
