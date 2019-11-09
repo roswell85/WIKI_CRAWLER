@@ -1,7 +1,7 @@
 # WIKI_CRAWLER
-A Wikipedia crawler that takes in a wikipedia link and extracts paragraph texts from the link\n and the hyperlinks within the mentioned link
-Author : Ali Shawky
-download wikicrawler.py and its requirements.txt 
+A Wikipedia crawler that takes in a wikipedia link and extracts paragraph texts from the link\n and the hyperlinks within the mentioned link.
+Author : Ali Shawky.
+download wikicrawler.py and its requirements.txt .
 import wikicrawler
 create a crawler object using the constructor 
 >>> crawler = wikicrawler.WIKI_CRAWLER()
