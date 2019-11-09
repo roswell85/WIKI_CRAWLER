@@ -59,18 +59,3 @@ class WIKI_CRAWLER():
         for j in soup:
           self.paragraphs.append(j.text)
       print('data successfully appended to WIKI_CRAWLER.paragraphs')
-  
-
-  
-
-
-      
-
-    
-    
-    
-
-
-
-
-        
